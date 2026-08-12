@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./images/helloworld.gif" width="100%">
+  <img src="helloworld.gif" width="100%">
 </p>
 
 <h2 align="left">👨‍💻 Sobre mim</h2>
